@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    background-color:  #f0f2f5;
+    text-align: center;
+}
+.facebook{
+    height: 9%;
+    width:19.71%;
+}
+.box
+{
+    margin: 0 auto 0 auto;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    background-color: #fff;
+    border-top-left-radius:8px;
+    border-top-right-radius: 8px;
+    padding: 10px 16px 10px 16px;
+    border-bottom-style: solid;
+    border-bottom-color: #a5a0a4;
+    border-width: 1px;
+}
+.account
+{
+    margin: 0 auto 0 auto;
+    color:#1c1e21;
+    font-size: 25px;
+    width: 400px;
+    height: 32px;
+}
+.p1{
+    font-size: 15px;
+    margin: 0 auto 0 auto;
+    color: #606770;
+    line-height: 25px;
+    width: 400px;
+    height: 24px;
+}
+.form1{
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #a5a0a4;
+    border-width: 1px;
+    font-size: 15px;
+}
+::placeholder{
+    color:#a5a0a4;
+}
+.form2{
+    margin-top: 10px;
+    width: 398.6px;
+    height:39.6px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #a5a0a4;
+    border-width: 1px;
+    font-size: 15px;
+}
+.dp{
+    color: #606770;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    float:left;
+    margin-left: 8px;
+    margin-bottom: 4px;
+}
+select{
+    width:125px; 
+    height: 36px;
+    border-radius: 5px;
+    margin-left: 8px;
+}
+.bord{
+    width:125px; 
+    height: 36px;
+    border-radius: 5px;
+    margin-left: 8px;
+    border-style: solid;
+    border-color: #a5a0a4;
+    border-width: 1px;
+    display: inline-block;
+    padding: auto;
+    background-color: white;
+}
+.a1{
+    margin-right:5px;
+}
+.a2{
+    margin-right:15px;
+}
